@@ -1,1 +1,58 @@
 
+@media (min-width:1200px) {
+	
+	.container-verybig{
+			max-width:1560px;
+	}
+}
+
+#bandeausaison4{
+	background-image: url(../images/combat.jpg);
+	background-position: center;
+}
+
+#bandeausaison4 h1 {
+	color: white;
+	text-align: left;
+	font-weight: 700;
+	font-size: 52px;
+	margin-bottom:20px;
+	font-family: Open Sans;
+	text-transform: uppercase;
+	padding-top:300px;
+}
+
+#bandeausaison4 p {
+	color: #ebdec2;
+	text-align: justify;
+	font-weight: 400;
+	font-size: 1.296rem;
+	font-family: Open Sans;
+	
+}
+
+#bandeausaison4 p a {
+	color: #ebdec2;
+	text-transform: none;
+	text-decoration: underline;
+	font-size:1.728rem;
+}
+
+#bandeausaison4 p a:hover {
+	color: #ebdec2;
+}
+#bandeausaison4 a.annonce, a.ensavoir{
+	color: #ffd36b;
+	text-transform: uppercase;
+	text-align: center;
+}
+#bandeausaison4 a.annonce{
+	padding: 12px 30px;
+	border: solid 1px red;
+	background-color: rgba(255, 0, 0, 0.5);
+}
+#bandeausaison4 a.ensavoir{
+	padding: 12px 30px;
+	margin-left: 20px;
+	border: solid 1px;
+}
